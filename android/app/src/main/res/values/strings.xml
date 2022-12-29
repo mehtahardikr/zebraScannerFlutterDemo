@@ -1,0 +1,4 @@
+<resources>
+    <string name="scan_info">Scan below QR code to pair the scanner</string>
+    <string name="close">Close</string>
+</resources>
